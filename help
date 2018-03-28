@@ -1,0 +1,8 @@
+Olá, testei e deu a seguinte mensagem de erro:
+
+EasyProcessCheckInstalledError: cmd=['Xvfb', '-help']
+OSError=[WinError 2] O sistema não pode encontrar o arquivo especificado
+Program install error! 
+
+Vc saberia o motivo?
+obrigada
